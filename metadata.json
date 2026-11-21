@@ -1,0 +1,6 @@
+{
+  "name": "VELOXX",
+  "description": "VELOXX — Premium tech, homeware, kitchen essentials, and modern lifestyle store with Cash on Delivery nationwide across Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
